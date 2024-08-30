@@ -1,0 +1,13 @@
+﻿using OOP.Classes;
+Console.WriteLine("qaysi kitobni sotib olmoqchisiz:");
+string bookname=Console.ReadLine();
+Console.WriteLine("muallifi kim:");
+string bookauthor=Console.ReadLine();
+Console.WriteLine("qanchaga oldingiz:");
+int bookprice=int.Parse(Console.ReadLine());
+Book book1=new Book(bookname,bookauthor,bookprice);
+book1.chiqarish();
+Console.WriteLine("juda ajoyib kitob ekan ammo ushbu kitoblar onlayn dokonlarda arzonroqga olishingiz mumkin masalan:");
+book1.dokondaginarxlar();
+book1.PriceBook=(int)(bookprice*0.75);
+Console.WriteLine($"siz kitobni {book1.PriceBook}ga olishiingiz afzal ");

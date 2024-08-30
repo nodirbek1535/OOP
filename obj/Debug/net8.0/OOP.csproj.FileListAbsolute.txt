@@ -1,0 +1,14 @@
+D:\VSCode (mohirdev)\OOP\bin\Debug\net8.0\OOP.exe
+D:\VSCode (mohirdev)\OOP\bin\Debug\net8.0\OOP.deps.json
+D:\VSCode (mohirdev)\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+D:\VSCode (mohirdev)\OOP\bin\Debug\net8.0\OOP.dll
+D:\VSCode (mohirdev)\OOP\bin\Debug\net8.0\OOP.pdb
+D:\VSCode (mohirdev)\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode (mohirdev)\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+D:\VSCode (mohirdev)\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+D:\VSCode (mohirdev)\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+D:\VSCode (mohirdev)\OOP\obj\Debug\net8.0\OOP.dll
+D:\VSCode (mohirdev)\OOP\obj\Debug\net8.0\refint\OOP.dll
+D:\VSCode (mohirdev)\OOP\obj\Debug\net8.0\OOP.pdb
+D:\VSCode (mohirdev)\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+D:\VSCode (mohirdev)\OOP\obj\Debug\net8.0\ref\OOP.dll
